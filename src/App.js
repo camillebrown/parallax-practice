@@ -45,7 +45,7 @@ function App() {
         <img src={mountains_front} id="mountains_front" />
       </section>
       <div className="sec" id="sec">
-        ;<h2>Parallax Scrolling Effects</h2>
+        <h2>Parallax Scrolling Effects</h2>
         <p>
           Magna elit ex amet in veniam pariatur sint ea duis nostrud. Cupidatat
           commodo cupidatat veniam in irure consectetur dolor ipsum non dolor
